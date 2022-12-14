@@ -1,5 +1,5 @@
-# Artificial-Stupidity
-An AI that keep asking
+## **Artificial-Stupidity**
+## An AI that keep asking
 
 coming not so soon
 
@@ -14,7 +14,9 @@ coming not so soon
 
 
 
+---
 
-
-
+```
 what?...
+```
+
